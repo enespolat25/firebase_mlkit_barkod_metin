@@ -8,20 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:481901457001:android:58db1c5d4eb0cbc6e83cf8",
+        "mobilesdk_app_id": "_____________________________________",
         "android_client_info": {
-          "package_name": "com.enespolat.firebasemlkit"
+          "package_name": "___________________________________"
         }
       },
       "oauth_client": [
         {
-          "client_id": "481901457001-qnqi8pokr9kpcbs4n68ovgfd3ubvainr.apps.googleusercontent.com",
+          "client_id": "________________________________________________",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC8PQPwbA7sFOejfnZjdJsSxelyWj_hrF4"
+          "current_key": "___________________________________________________________"
         }
       ],
       "services": {
