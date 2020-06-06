@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481901457001",
+    "firebase_url": "https://fir-ml-kit-text-detect.firebaseio.com",
+    "project_id": "fir-ml-kit-text-detect",
+    "storage_bucket": "fir-ml-kit-text-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481901457001:android:58db1c5d4eb0cbc6e83cf8",
+        "android_client_info": {
+          "package_name": "com.enespolat.firebasemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481901457001-qnqi8pokr9kpcbs4n68ovgfd3ubvainr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PQPwbA7sFOejfnZjdJsSxelyWj_hrF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481901457001-qnqi8pokr9kpcbs4n68ovgfd3ubvainr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
